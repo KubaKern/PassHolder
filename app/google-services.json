@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274936720921",
+    "project_id": "passholder-c6695",
+    "storage_bucket": "passholder-c6695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274936720921:android:9ba3735ab3259350984488",
+        "android_client_info": {
+          "package_name": "kuba.kern.passholder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274936720921-jl1a284j18kkd1phjata6tikvf2slb1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVActe9M-1o7mLcDQAyzoR4Myoh4SMoBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274936720921-jl1a284j18kkd1phjata6tikvf2slb1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
